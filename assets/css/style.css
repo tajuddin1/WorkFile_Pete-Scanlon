@@ -384,7 +384,7 @@ input[type='checkbox']:checked~.switcher-label .switcher-toggler {
 }
 
 .social-link:hover {
-  box-shadow: 3px 3px var(--color-dark;)
+  box-shadow: 3px 3px var(--color-dark);
 }
 
 .contact-note {
@@ -559,7 +559,7 @@ body.dark .social-link:hover {
   
   .nav-wrapper{
     background-color: #fff;
-    border: 1.5px solid var(--color-dark;)
+    border: 1.5px solid var(--color-dark);
     border-radius: 40px;
     justify-content: space-between;
     align-items: center;
