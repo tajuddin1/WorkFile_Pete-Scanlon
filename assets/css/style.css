@@ -838,8 +838,8 @@ body.dark .social-link:hover {
     display: none;
   }
   .works-details-item {
-    height: 215px;
-    min-height: 215px;
+    height: 180px;
+    min-height: 180px;
   }
   .works-details-item:last-child {
     height: 47vh;
