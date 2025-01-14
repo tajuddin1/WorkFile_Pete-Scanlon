@@ -365,7 +365,7 @@ input[type='checkbox']:checked~.switcher-label .switcher-toggler {
 }
 
 .card-img {
-  max-width: 140px;
+  max-width: 180px;
 }
 
 .text-gray {
@@ -742,12 +742,12 @@ body.dark .social-link:hover {
     bottom: auto;
   }
 
-  .contact-section,
+  /* .contact-section,
   .words-section,
   .approch-section,
   .section-experience {
     border-top: 1.5px solid var(--color-dark);
-  }
+  } */
   body.dark .contact-section,
   body.dark .words-section,
   body.dark .approch-section,
